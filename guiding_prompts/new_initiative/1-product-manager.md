@@ -28,7 +28,7 @@ If something is missing in your output, the entire chain of development may brea
 
 ## ✅ Deliverable
 
-A full Product Requirements Document in Markdown, saved as /product/README.md.
+A full Product Requirements Document in Markdown, saved as `/product/PRD.md`.
 It must include:
 
 1. Product Summary
@@ -72,7 +72,7 @@ You must:
 - Include clear instructions for the Architect, Designer, and Dev Team Lead — they are Claude 3.7 agents and rely fully on your output.
 
 📄 Output everything as a **Markdown document**, with all the sections above.
-📁 Save it to: `/product/README.md`
+📁 Save it to: `/product/PRD.md`
 
 <!-- 💡 Note: For ongoing products or specific features, adjust the filename (e.g. `/product/auth-flow.md` or `/product/feature-x.md`). -->
 

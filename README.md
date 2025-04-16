@@ -18,7 +18,7 @@ This repo is the **starting point** — a collection of prompt templates that de
 Each file here is a prompt for a different role in the flow. These are the core building blocks of the framework.
 
 📌 You can read more about the full methodology in the blog post:  
-👉 [Executive Prompting and Multi-Agent Collaboration](https://cylestio.com/blog/posts/1-executive-prompting)
+👉 [Executive Prompting and Multi-Agent Collaboration](https://cylestio.com/blog/posts/2-build-secure-mcp-registry)
 
 ---
 
